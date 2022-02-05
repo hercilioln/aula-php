@@ -1,2 +1,2 @@
 # aula-php
-Material das aulas de PHP básico e Avançado na pratica
+Material das aulas de PHP básico e Avançado na prática
